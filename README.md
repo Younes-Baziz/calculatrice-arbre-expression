@@ -50,7 +50,4 @@ Résultat :
 - `fichier.hpp` : déclarations des classes et structures
 - `fichier.cpp` : implémentation des algorithmes et traitements
 
-## Compilation
 
-```bash
-g++ -o calc main.cpp fichier.cpp
